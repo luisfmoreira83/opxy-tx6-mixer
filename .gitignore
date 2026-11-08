@@ -1,0 +1,8 @@
+# Generated outputs belong outside the extension repository.
+__pycache__/
+*.pyc
+*.o
+*.exe
+*.wasm
+*.ldr
+*.tfw
