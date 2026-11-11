@@ -4,5 +4,8 @@
   "description": "A TX-6 in controller mode mixes the OP-XY: faders set track volumes, track buttons mute, knobs move filter, engine and pan (shift).",
   "note": "While it is in your firmware, CCs 1-35 on channel 1 belong to the TX-6.",
   "claims": [],
-  "actions": []
+  "actions": [],
+  "page": {
+    "artwork": "tx6.svg"
+  }
 }
